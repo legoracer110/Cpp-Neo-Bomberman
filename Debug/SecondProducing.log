@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  SecondProducing.cpp
+d:\중요파일들\포트폴리오_2019\c++_네오범버맨\secondproducing\secondproducing.cpp(62): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+d:\중요파일들\포트폴리오_2019\c++_네오범버맨\secondproducing\player.cpp(6): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameMain.cpp
+d:\중요파일들\포트폴리오_2019\c++_네오범버맨\secondproducing\gamemain.cpp(6): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\중요파일들\포트폴리오_2019\c++_네오범버맨\secondproducing\gamemain.cpp(559): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\중요파일들\포트폴리오_2019\c++_네오범버맨\secondproducing\gamemain.cpp(1129): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Fire.cpp
+  Enemy.cpp
+  Bomb.cpp
+  코드를 생성하고 있습니다...
+  SecondProducing.vcxproj -> D:\중요파일들\포트폴리오_2019\C++_네오범버맨\SecondProducing\Debug\SecondProducing.exe
+  SecondProducing.vcxproj -> D:\중요파일들\포트폴리오_2019\C++_네오범버맨\SecondProducing\Debug\SecondProducing.pdb (Full PDB)
